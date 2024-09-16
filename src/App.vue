@@ -31,7 +31,7 @@
 </template>
 
 <script>
-import timerImage from '/project3/src/assets/STC-Primary.png';
+import timerImage from '/project3/assets/STC-Primary.png';
 
 export default {
   data() {
